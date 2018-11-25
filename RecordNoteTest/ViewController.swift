@@ -30,7 +30,7 @@ class ViewController: UIViewController, UITabBarControllerDelegate {
             return false
         }
         
-        //中央のボタンが押された時の処理
+        //中央のボタンが押された時の処理///
         tabBarController.didHijackHandler = {
             [weak tabBarController] tabbarController, viewController, index in
             
