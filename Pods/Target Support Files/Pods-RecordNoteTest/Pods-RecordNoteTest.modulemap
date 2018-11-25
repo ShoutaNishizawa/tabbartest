@@ -1,0 +1,6 @@
+framework module Pods_RecordNoteTest {
+  umbrella header "Pods-RecordNoteTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
